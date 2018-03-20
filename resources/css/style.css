@@ -10,10 +10,11 @@ h1 {
 	
 }
 
-p {
+h3 {
 	color: aquamarine;
 	font-size: 16px;
 	text-decoration: underline;
+	font-weight: normal;
 	
 }
 
@@ -23,3 +24,28 @@ p {
 	
 }
 
+.guide h1 {
+	font-weight: 300;
+	font-size: 42px;
+	
+}
+
+.guide p {
+	font-size: 21px;
+	color: gray;
+	text-decoration: none
+	
+}
+
+.coming_soon h1 {
+	font-size: 42px;
+	font-weight: 300;
+	
+}
+
+.copyright p {
+	text-align: right;
+	color: gray;
+	font-size: 21px;
+	
+}
